@@ -1,8 +1,8 @@
 """
 Number Guessing Game
 number-guessing-game.py
-23-10-2017
-Boyke van Vugt
+23-10-2017 / 09-02-2022
+Boyke van Vugt / Jeroen van der Tuin
 """
 
 # Library for random numbers 
